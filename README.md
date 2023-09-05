@@ -71,7 +71,7 @@ to better distinguish real from fake images. This adversarial training continues
 
 ## Sample Images
 
-During training, sample images are generated and saved at regular intervals. These images can be viewed in the `images/` directory.
+During training, sample images are generated and saved at regular intervals. These images can be viewed in the `mnist100K/` directory.
 
 
 By Alish Shrestha
